@@ -13,7 +13,8 @@ public class Greeter {
   }
 
   /**
-   * voici ma java doc bordel ce jenkisn va me les briser avec ses rapports de tests^^.
+   * voici ma java doc bordel ce jenkisn va me les briser.
+   * avec ses rapports de tests^^
    * @param someone est le nom d'une personne
    * @return string
    */
