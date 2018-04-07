@@ -14,7 +14,7 @@ public class Greeter {
 
   /**
    * voici ma java doc bordel ce jenkisn va me les briser avec ses rapports de tests^^
-   * @param someone
+   * @param someone est le nom d'une personne
    * @return string
    */
   public final String greet(final String someone) {
